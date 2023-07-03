@@ -1,6 +1,6 @@
 {
   "name": "logstash-axios",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "Based on the logstash-http extension package, with more powerful scalability, support for high concurrency processing",
   "main": "./lib/index.js",
   "scripts": {
